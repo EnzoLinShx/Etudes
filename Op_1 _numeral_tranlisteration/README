@@ -1,0 +1,3 @@
+# Op. 1 Numeral Transliteration #
+A simple app to translierate Hindu-Arabic numerals into other system.
+N.B. The input Hindu-Arabic shall be of less than 9 digits before the dot and 4 after the dot.
